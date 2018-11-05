@@ -1,4 +1,3 @@
-test
-foo
-3rd line web 
-3rd line locally
+this is totally new feature
+fixup! feature was implemented wrong
+it was wring again  
