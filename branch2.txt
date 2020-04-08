@@ -1,2 +1,3 @@
 test
-Change from branch 2
+Change from branch2 1
+Change from branch2 2
